@@ -8,7 +8,7 @@
     "@fullcalendar/react": "^4.3.0",
     "@fullcalendar/timegrid": "^4.3.0",
     "@lourenci/react-kanban": "^0.14.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "body-scroll-lock": "^2.6.4",
     "chart.js": "^2.8.0",
     "chartist": "^0.11.4",
